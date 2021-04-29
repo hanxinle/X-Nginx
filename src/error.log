@@ -1,0 +1,4 @@
+2021/04/29 18:34:13 [stderr] 13040: nginx: CSocekt::Initialize()中bind()失败,i=0. (13: Permission denied) 
+2021/04/29 18:34:13 [stderr] 13040: nginx: 程序退出，再见了!
+2021/04/29 18:34:34 [stderr] 13044: nginx: CSocekt::Initialize()中bind()失败,i=0. (13: Permission denied) 
+2021/04/29 18:34:34 [stderr] 13044: nginx: 程序退出，再见了!
